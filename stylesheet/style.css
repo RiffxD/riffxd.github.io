@@ -50,9 +50,8 @@ footer{
 
 /* IDS */
 #principal{
-    background-color: white;
+    background-color: rgb(39, 39, 39);
     background-size: 100%;
-    min-height: 400px;
     padding: 0 0 0 0;
     clear: both;
 }
