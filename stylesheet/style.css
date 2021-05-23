@@ -21,6 +21,7 @@ h1{
 p{
     color: white;
     font-size: 20px;
+    text-align: center;
     font-family: Helvetica, Arial;
     text-shadow: 1px 1px 1px #111111;
 }
