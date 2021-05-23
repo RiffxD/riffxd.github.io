@@ -52,6 +52,7 @@ footer{
 #principal{
     background-color: rgb(39, 39, 39);
     background-size: 100%;
+    min-height: 500px;
     padding: 0 0 0 0;
     clear: both;
 }
