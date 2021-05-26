@@ -1,1 +1,1 @@
-site adress: riffxd.github.io
+riffxd.github.io
