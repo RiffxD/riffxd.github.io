@@ -9,6 +9,9 @@ body {
 a:link {
     color: rgb(71, 98, 255);
 }
+a:visited {
+    color: rgb(116, 66, 255);
+}
 
 h1 {    
     font-size: 27.5px;
